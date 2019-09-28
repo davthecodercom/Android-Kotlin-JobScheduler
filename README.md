@@ -1,2 +1,2 @@
-# Android Kotlin JobService
-Android sample project where JobService is implemented with Kotlin
+# Android Kotlin JobScheduler example
+Android sample project where JobSchedule is implemented with Kotlin
