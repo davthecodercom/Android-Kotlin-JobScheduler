@@ -5,8 +5,9 @@ import android.app.job.JobService
 import android.util.Log
 
 class ExampleJobService: JobService() {
+
     companion object {
-        private const val TAG = "David ExampleJobService"
+        private const val TAG = "ExampleJobService"
         private const val TIME_SLEEP_MILLISECONDS: Long = 1000
     }
 
